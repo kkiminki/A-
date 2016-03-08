@@ -1,5 +1,7 @@
 #This is an implementation of an a*
-#search over a mesh. This was built
+#search over a mesh. There is also
+#an implementation of a bi-directional
+#search that can be swapped in. This was built
 #by Kyler Kiminki and Alx Hoyt and
 #the framework code for the animation
 #was provided by Dan Shapiro as an 
